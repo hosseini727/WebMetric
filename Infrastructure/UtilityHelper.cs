@@ -9,6 +9,7 @@ namespace Infrastructure
 {
     public static  class UtilityHelper
     {
+
         #region Reading parameters from Json file
         /// <summary>
         /// Reading parameters from Json file
