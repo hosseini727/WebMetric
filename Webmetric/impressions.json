@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c1",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 101
+  },
+  {
+    "id": "c2",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 102
+  },
+  {
+    "id": "c3",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 103
+  },
+  {
+    "id": "c4",
+    "app_id": 3,
+    "country_code": "FR",
+    "advertiser_id": 104
+  },
+  {
+    "id": "c5",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 105
+  },
+  {
+    "id": "c6",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 106
+  },
+  {
+    "id": "c7",
+    "app_id": 3,
+    "country_code": "FR",
+    "advertiser_id": 107
+  },
+  {
+    "id": "c8",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 108
+  },
+  {
+    "id": "c9",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 109
+  },
+  {
+    "id": "c10",
+    "app_id": 3,
+    "country_code": "FR",
+    "advertiser_id": 110
+  },
+  {
+    "id": "c11",
+    "app_id": 3,
+    "country_code": "FR",
+    "advertiser_id": 111
+  },
+  {
+    "id": "c12",
+    "app_id": 3,
+    "country_code": "FR",
+    "advertiser_id": 112
+  },
+  {
+    "id": "c13",
+    "app_id": 4,
+    "country_code": "IR",
+    "advertiser_id": 113
+  },
+  {
+    "id": "c14",
+    "app_id": 4,
+    "country_code": "IR",
+    "advertiser_id": 114
+  }
+]

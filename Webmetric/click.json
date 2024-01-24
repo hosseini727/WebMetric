@@ -1,0 +1,58 @@
+[
+  {
+    "impression_id": "c1",
+    "revenue": 8
+  },
+  {
+    "impression_id": "c2",
+    "revenue": 7
+  },
+  {
+    "impression_id": "c3",
+    "revenue": 4
+  },
+  {
+    "impression_id": "c4",
+    "revenue": 10
+  },
+  {
+    "impression_id": "c5",
+    "revenue": 9
+  },
+  {
+    "impression_id": "c6",
+    "revenue": 8
+  },
+  {
+    "impression_id": "c7",
+    "revenue": 50
+  },
+  {
+    "impression_id": "c8",
+    "revenue": 6
+  },
+  {
+    "impression_id": "c9",
+    "revenue": 5
+  },
+  {
+    "impression_id": "c10",
+    "revenue": 1
+  },
+  {
+    "impression_id": "c11",
+    "revenue": 7
+  },
+  {
+    "impression_id": "c12",
+    "revenue": 4
+  },
+  {
+    "impression_id": "c13",
+    "revenue": 40
+  },
+  {
+    "impression_id": "c14",
+    "revenue": 9
+  }
+]
